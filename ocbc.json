@@ -1,5 +1,4 @@
-[
-  //2019
+[  
   {
     "name": "Jurnal Transaksi Obligasi",
     "desc": "Pembukuan atau penjurnalan revenue transaksi bonds",
@@ -10,8 +9,6 @@
     "desc": "New service untuk pembukaan taka bunga (web service) untuk diconsume di channel mobile banking",
     "year": 2019,
   },
-
-  //2020
   {
     "name": "CSR Obligor",
     "desc": "",
@@ -27,15 +24,11 @@
     "desc": "Migrasi menu (page) blotter fld dan transaksi fld. Fullstack (fe web client angular, be api dotnet 2.1)",
     "year": 2020,
   },
-
-  //2021
   { 
     "name": "Robotic Process Automation", 
     "desc": "System otomasi menggunakan platform rpa (rpa orchestrator, rpa studio dan rpa robot)", 
     "year": 2021 
   },
-
-  //2022
   {
     "name": "NTI channel RMM",
     "desc": "",
@@ -76,8 +69,6 @@
     "desc": "Pembukaan transaksi lelang obligasi sekunder untuk channel mobile banking",
     "year": 2022,
   },
-
-  //2023
   {
     "name": "Parameter FLD",
     "desc": "Revamp menu upload parameter FLD",
@@ -108,8 +99,6 @@
     "desc": "Parameter harga modal srbi", 
     "year": 2023 
   },
-
-  //2024
   {
     "name": "Setting harga FLD",
     "desc": "Setting harga fld (range modal, capped bunga fld dan special bunga)",
